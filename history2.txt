@@ -1,0 +1,6 @@
+   0 date >user.txt
+   1 df / >> user.txt
+   2 history >> user.txt
+   3 cat /proc/cpuinfo |grep vendor >> user.txt
+   4 tail -n1 user.txt > user2.txt
+   5 history > history2.txt
